@@ -1,6 +1,6 @@
 # JKUAT Karen Developer Student Club Policy and Procedures
 
-/Tech Logo.png
+[/Tech Logo.png](https://github.com/JKUAT-Karen-Developer-Student-Club/Policy)
 
 The JKUAT Karen Student Developer Club is a student organization at the Jomo Kenyatta University of Agriculture and Technology(Karen Campus) which is focused on providing students with valuable, hands-on, extracurricular tech skills which cannot normally be acquired through coursework.
 Founded in 2022, DSC facilitates student-run workshops, tutorials, demos, and presentations for students of all backgrounds and skill-levels.
